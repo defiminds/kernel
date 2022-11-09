@@ -1,0 +1,7 @@
+echo "# kernel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:defiminds/kernel.git
+git push -u origin main
