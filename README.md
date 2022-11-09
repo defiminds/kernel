@@ -1,3 +1,1 @@
-# kernel
-
 # Alpine Linux Kernel
